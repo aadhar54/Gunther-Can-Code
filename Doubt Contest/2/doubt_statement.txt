@@ -1,0 +1,47 @@
+Hello , I am getting doubt in writing a  program to check whether 2 strings are anagrams of each other
+But I am getting errors. Can you help me in errors .
+
+
+#include<iostream>
+#include<string.h>
+using namespace std;
+int main()
+{
+	int i,a,b,j;
+	char s1[100],s2[100],temp;
+	gets(s1);
+	gets(s2);
+	a=strlen(s1);
+	b=strlen(s2);
+	if(a!=b)
+	cout<<"the strings are not anagrams of each other\n";
+	return 0;
+	for(i=0;i<a-1;i++)
+	{
+	for(j=i+1;j<a;j++)
+	{
+		if(s1[i]>s1[j])
+		{
+			temp=s1[i];
+			s1[i]=s1[j];
+			s1[j]=temp;
+		}
+		if(s2[i]>s2[j])
+		{
+			temp=s2[i];
+			s2[i]=s2[j];
+			s2[j]=temp;
+		}
+		
+		
+	}
+}
+	for(i=0;i<a;i++)
+		{
+			if(s1[i]!=s2[i])
+			cout<<"not amagrams";
+			else
+	cout<<"anagrams!";
+}
+	return 0;
+}

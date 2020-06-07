@@ -1,0 +1,64 @@
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    int a=3;
+    long b=12345678912345;
+    char c;
+    float d=334.230;
+    double e=14049.304930000;
+    printf("%d\n%ld\n%c\n%f\n%lf\n",a,b,c,d,e);
+    return 0;
+}
+
+
+/*Hello . This is my solution to the question given in hackerrank as follows:
+
+https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+Print int 3,
+followed by long 12345678912345,
+followed by char a,
+followed by float 334.230,
+followed by double 14049.304930000.
+
+Note:
+hackerrank itself gives input to the code. therefore here I have initialsed values here by myself.
+
+my queries:
+(i)initially I used cin and cout(in hackerrank). It only worked in 1(didnt get all decimal places) out of 3 cases.
+(ii)Since the post had suggested to use printf and scanf, I tried my code in my pc with dev c++ as follows:
+    #include <iostream>
+    #include <cstdio>
+    using namespace std;
+
+    int main() 
+    {
+        int a;
+        long b;
+        char c;
+        float d;
+        double e;
+        scanf("%d%ld%c%f%lf",&a,&b,&c,&d,&e);
+        printf("%d\n%ld\n%c\n%f\n%lf\n",a,b,c,d,e);
+        return 0;
+    }
+
+    There was no compilation error but when it was running and when I pressed enter after entering char value,
+    it stopped taking any more values and displayed only the values which it took.
+    
+    I also tried to take in the char value at last after taking in all values, but it didnt take it. I also tried to
+    enter all the values in the same line without hitting enter
+    
+    Input: 3 12345678912345 334.230 14049.304930000 a
+    
+    but the output was like this:
+    3
+    2135140125
+
+    0.000000
+    0.000000
+
+Thank you for reading my doubts with patience. I hope I understand it. :)
+*/
