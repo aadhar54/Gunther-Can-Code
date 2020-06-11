@@ -1,0 +1,25 @@
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+void main() {
+    int a;
+    long b;
+    char c;
+    float d;
+    double e;
+    //I am using cin and cout instead of printf and scanf
+    
+    cout<<"Enter all the values : ";
+    cin>>a;
+    cin>>b;
+    cin>>c;
+    cin>>d;
+    cin>>e;
+    
+    cout<<a<<b<<c<<d<<e;
+    
+    return 0;
+    }
+    
+    //  :) :)
