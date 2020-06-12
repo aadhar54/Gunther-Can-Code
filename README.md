@@ -16,12 +16,13 @@
 ## 🏆🤩🔥🔥 Congratulations F.R.I.E.N.D.S of G.U.N.T.H.E.R JUNE 2020 🏆🤩🔥🔥
 ![](https://github.com/aadhar54/Gunther-Can-Code/blob/master/img/gunther2.jpg)
 
-# 👩🏻‍💻 [2]
+# 👩🏻‍💻 [3]
 
   ### ⭐ Aswini.s , Ethiraj college (Tamil Nadu) | 1,2
+  ### ⭐ Madhura | 2
 
-
-# 👨🏻‍💻 [0]
+# 👨🏻‍💻 [2]
+### ⭐ Aswin VR | 2,3 
 
 
 ![](https://github.com/aadhar54/Gunther-Can-Code/blob/master/image.jpg?raw=true)
