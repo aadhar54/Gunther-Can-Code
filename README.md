@@ -16,9 +16,10 @@
 ## Thus ,I welcome you to this contest where I would be posting my doubts.It aims to help , beginners like me , learn pull request and other stuff related to git and github 💣.This aims to improve debugging skills 💻 .Doubts will be regularly posted 🥁 in Doubt Conest Folder .Whenever , you kindly solve someone's doubt , it conveys that you ❤️care❤️ for me ! For students who will be solving doubts 🚀,their names will be added to this readme.md and their solutions will help students and they would be given full credit .🏀
 
 
-## 🏆🤩🔥🔥 Congratulations F.R.I.E.N.D.S of G.U.N.T.H.E.R JUNE 2020 🏆🤩🔥🔥
+## 🏆🤩🔥🔥 Congratulations F.R.I.E.N.D.S of G.U.N.T.H.E.R 🏆🤩🔥🔥
 ![](https://github.com/aadhar54/Gunther-Can-Code/blob/master/img/gunther2.jpg)
 
+###### STAR CHAMPIONS WHO HAVE HELPED ME SO FAR ....
 
 ### ⭐ Aswini.s , Ethiraj college (Tamil Nadu) | 1,2,4
 ### ⭐ Aswin VR | 2,3 
