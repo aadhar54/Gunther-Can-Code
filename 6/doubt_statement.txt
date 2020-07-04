@@ -1,9 +1,20 @@
-/*Your program took more time than expected.Time Limit Exceeded
+Ques : https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+
+/*MY DOUBT : 
+Your program took more time than expected.Time Limit Exceeded
 Expected Time Limit < 0sec
 Hint : Please optimize your code and submit again.
 
-Can u help me resolving this and point out my mistakes?*/
+Can u help me resolving this and point out my mistakes?
+Sum of a subarray was given Along with no of test cases and size of array
+And we had to tell the positions where they lied
+Like 12378 and sum is 12
+So output would be 2 4 i.e from 2nd to 4th term
+My code was fine but time complexity u know .Pls help by correcting my code.
 
+*/
+
+// Code to debug and correct :
 
 #include <iostream>
 using namespace std;

@@ -1,8 +1,10 @@
-Please explain in detail how to solve question mentioned in Image doubt.jpeg
- .Gunther has this doubt !
- 
- 
- 
- 
- 
- 
+The given 2d array has 2 rows with 4 elements in each row
+(a[1]+2) means a[1] points to 2nd row(row with index as 1) and (a[1]+2) means address of a[1]+2sizeof(int) gives the 3rd element address(element with index 2 in row 1) and that * gives the content at a[1][2]
+//output 21
+((a+1)+2) gives 21 because *(a+1) is same as a[1] so it also points to 1th indexed row , so finally ((a+1)+2) == *(a[1]+2)
+//output 21
+
+array_name[1] is same as 1[array_name]
+2[1[a]] is same as 2[a[1]] and this is same as a[1][2] so it gives the value of a[1][2]
+
+//output 21
