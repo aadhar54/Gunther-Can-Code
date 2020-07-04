@@ -1,0 +1,48 @@
+/*Your program took more time than expected.Time Limit Exceeded
+Expected Time Limit < 0sec
+Hint : Please optimize your code and submit again.
+
+Can u help me resolving this and point out my mistakes?*/
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	//code
+	int n,s,t;
+	cin>>t;
+	
+	 while(t>0)
+	{
+	    cin>>s>>n;
+	    int ar[1000];int sum=0;int i;int start=0;
+	    for(i=0;i<n;i++)
+	    {
+	        cin>>ar[i];
+	    }
+	    
+	    
+	    for(i=start;i<n;i++)
+	    {   
+	        
+	        while(sum<s)
+	        sum=sum+ar[i];
+	        if(sum>s)
+	        {
+	            sum=sum-ar[start];
+	            start++;
+	            sum=sum+ar[i];
+	        }
+	        if(sum==s)
+	        {
+	            cout<<start+1<<""<<i+1<<endl;
+	        }
+	        
+	        
+	    }
+	    
+	}
+	return 0;
+}
+
