@@ -22,10 +22,11 @@
 ###### STAR CHAMPIONS WHO HAVE HELPED ME SO FAR ....
 
 ### ⭐ Aswini.s , Ethiraj college (Tamil Nadu) | 1,2,4
+### ⭐ Hinduja ,JNTU Hyderabad | 5,6
 ### ⭐ Aswin VR | 2,3 
 ### ⭐ ShenbagaMeenakshi 3
 ### ⭐ Madhura | 2
-### ⭐ Hinduja ,JNTU Hyderabad | 5
+
 
 
 ![](https://github.com/aadhar54/Gunther-Can-Code/blob/master/image.jpg?raw=true)
