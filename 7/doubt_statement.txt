@@ -1,0 +1,19 @@
+// Debug this code and make a pull request with new file containing correct code .
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    char i[] ="EVEN";
+    switch(i){
+        case "EVEN" : printf ("Even");
+      break;
+   case "ODD" : printf ("Odd");
+      break;
+   default : printf ("Default");
+    }
+   
+   
+   return 0;
+}
+  

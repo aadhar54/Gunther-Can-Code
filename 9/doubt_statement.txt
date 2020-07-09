@@ -1,0 +1,39 @@
+// All test cases not passing .Question link is https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not/0/
+
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	//code
+	
+	int t;
+	cin>>t;
+	
+	while(t>0)
+	{
+	    int n;
+	    cin>>n;
+	    
+	    int a=0;
+	    while(n>0)
+	    {
+	        a=a+n%10;
+	        n=n/10;
+	    }
+	    
+	    int sum=a;int rev=0;
+	    
+	    while(a>0)
+	    {
+	        rev=rev*10+a%10;
+	        a=a/10;
+	    }
+	   if(sum==a)
+	    cout<<"YES";
+	    else
+	    cout<<"NO";
+	}
+	return 0;
+}
