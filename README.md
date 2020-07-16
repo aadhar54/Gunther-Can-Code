@@ -1,3 +1,5 @@
+Did you fall in love (with Computer Science and Coding ❤️) , because we did . How was your expereince with us ? Do you have any suggestions for us or some heartfelt praise . Wanna Let us know .Yes , then do so by giving us an honest review at https://www.quora.com/Should-I-join-MyCaptain-Coder%E2%80%99s-Pack-Is-it-beneficial?q=MyCaptain%20Coders ❤️ ✍️ 
+
 #  GUNTHER CAN CODE : AN OPENSOURCE C++ COMMUNITY DOUBT CONTEST 🥊 
 ## ⚠️❗📢 Make sure to make a pull request with your solution txt or cpp file and not change the original doubt statement file in the folders. 📢❗⚠️
 
